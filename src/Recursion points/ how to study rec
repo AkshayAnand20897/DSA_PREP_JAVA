@@ -1,0 +1,20 @@
+recursion : function calling itself
+
+its helps us to solving bigger complex problem in simpler way
+
+you can convert recursion solutions into iteration and vice versa
+
+it consume space means space complexity is there which is not constant bcs of recursion calls
+
+it hepls us in breaking down bigger problem into smaller problems
+
+
+visualizing recursion
+
+break it down into smaller problems  == recurrance relation
+
+
+
+
+
+

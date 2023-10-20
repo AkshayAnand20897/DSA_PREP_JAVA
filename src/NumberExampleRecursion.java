@@ -3,7 +3,11 @@ public class NumberExampleRecursion {
         // System.out.println("This is my first file on git");
         print(1);
 
-
+        /*
+        * every function call will take memory
+        * function call will keep hapenning
+        * memory of computer exceed the memory is stackoverflow
+        * */
     }
     static void print(int n){
         if(n==9)
