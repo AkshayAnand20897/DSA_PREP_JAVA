@@ -29,7 +29,14 @@ how to understand and approach the problem
 
 5. see how the value are returned at each step
 6. see how the func call will come out
-7.
+
+
+Types of recurrance relations:
+
+1. linear recurrance relation
+2. divide and conquer recurance relation
+
+
 
 
 

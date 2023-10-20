@@ -1,6 +1,6 @@
 public class Fibbonacci {
     public static void main(String[] args) {
-        int n=15;
+        int n=50;
         System.out.println(fib(n));
     }
 
