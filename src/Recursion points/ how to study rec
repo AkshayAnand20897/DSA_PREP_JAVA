@@ -14,6 +14,20 @@ visualizing recursion
 break it down into smaller problems  == recurrance relation
 
 
+When last function call is tail recursion
+
+
+how to understand and approach the problem
+
+1. indetify if you can break down problem into the smaller problem
+2. write the recurrance relation if need it
+3. drwa the recursive tree
+4.about the tree
+      a. see the flow the functions how they aregettinh stacked
+      b. identify the flow of the left tree calls and right tree calls
+
+
+
 
 
 
